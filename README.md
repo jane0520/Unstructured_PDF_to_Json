@@ -12,5 +12,7 @@
 
 ### 目前狀況（20250711）
 解析出的 Json 檔內容，Type 標籤對的不准。
+
 例如：原本是文本內容，但 Type 被標記成 Title。
+
 Type 種類分成：Title、NarrativeText、UncategorizedText、Footer、ListItem。
